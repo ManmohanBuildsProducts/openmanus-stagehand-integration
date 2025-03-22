@@ -1,0 +1,13 @@
+# LinkedIn connection acceptance configuration
+
+[linkedin]
+max_connections_per_session = 100
+delay_between_actions = 3
+auto_accept_all = true
+send_welcome_message = false
+
+[filters]
+# Example filters for accepting connections
+accept_titles = ["product manager", "developer", "engineer", "designer"]
+accept_companies = ["example corp", "tech solutions"]
+min_shared_connections = 5
