@@ -1,0 +1,13 @@
+# OpenManus configuration
+[llm]
+model = "gpt-4o"
+base_url = "https://api.openai.com/v1"
+api_key = "your_api_key_here"
+max_tokens = 4096
+temperature = 0.0
+
+# Stagehand integration settings
+[stagehand]
+enabled = true
+headless = false
+timeout_seconds = 30
