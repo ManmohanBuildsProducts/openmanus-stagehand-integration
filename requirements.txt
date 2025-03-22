@@ -2,3 +2,12 @@
 python-dotenv==1.0.0
 toml==0.10.2
 requests==2.31.0
+
+# For browser automation fallback
+playwright==1.39.0
+
+# For logging and utilities
+pydantic==2.5.0
+
+# Async support
+asyncio==3.4.3

@@ -1,0 +1,11 @@
+# Environment and credentials
+.env
+config/config.toml
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+env/
+build/
