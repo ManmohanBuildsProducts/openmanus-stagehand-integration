@@ -1,0 +1,4 @@
+# Core dependencies
+python-dotenv==1.0.0
+toml==0.10.2
+requests==2.31.0
