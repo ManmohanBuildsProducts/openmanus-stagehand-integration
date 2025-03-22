@@ -1,0 +1,41 @@
+{
+  "linkedin": {
+    "login_url": "https://www.linkedin.com/login",
+    "connection_limit": 25,
+    "delay_between_requests": [30, 90],
+    "headless": false,
+    "retry_attempts": 3
+  },
+  "prospects_path": "data/prospects.json",
+  "message_templates": [
+    "Hi {{first_name}}, I noticed your work at {{company}} and would love to connect!",
+    "Hello {{first_name}}, I came across your profile and I'm impressed by your experience in {{industry}}. Let's connect!",
+    "Hi {{first_name}}, I saw we share an interest in {{interest}}. I'd love to connect and chat about it sometime!"
+  ],
+  "stagehand": {
+    "browserless_token": "",
+    "timeout_ms": 30000,
+    "viewport": {
+      "width": 1280,
+      "height": 800
+    }
+  },
+  "openmanus": {
+    "api_key": "",
+    "base_url": "https://api.openmanus.ai",
+    "model": "gpt-4o"
+  },
+  "notifications": {
+    "email": {
+      "enabled": false,
+      "smtp_server": "smtp.gmail.com",
+      "smtp_port": 587,
+      "sender_email": "",
+      "recipient_email": ""
+    },
+    "slack": {
+      "enabled": false,
+      "webhook_url": ""
+    }
+  }
+} 

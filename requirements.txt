@@ -3,7 +3,7 @@ python-dotenv==1.0.0
 toml==0.10.2
 requests==2.31.0
 
-# For browser automation fallback
+# For browser automation
 playwright==1.39.0
 
 # For logging and utilities
@@ -11,3 +11,19 @@ pydantic==2.5.0
 
 # Async support
 asyncio==3.4.3
+
+# For OpenManus integration
+openai==1.6.0
+
+# For Stagehand integration 
+stagehand-client==0.7.0  # Replace with actual package if available
+
+# For data handling and manipulation
+pandas==2.1.0
+
+# For data export and import
+openpyxl==3.1.2
+
+# For testing
+pytest==7.4.0
+pytest-asyncio==0.21.1

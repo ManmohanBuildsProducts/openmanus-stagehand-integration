@@ -1,0 +1,62 @@
+[
+  {
+    "first_name": "Alex",
+    "last_name": "Johnson",
+    "name": "Alex Johnson",
+    "profile_url": "https://www.linkedin.com/in/alexjohnson123",
+    "company": "TechCorp Solutions",
+    "title": "Senior Product Manager",
+    "industry": "Software Development",
+    "interest": "Product Management",
+    "connection_degree": 2,
+    "mutual_connections": 3
+  },
+  {
+    "first_name": "Jamie",
+    "last_name": "Smith",
+    "name": "Jamie Smith",
+    "profile_url": "https://www.linkedin.com/in/jamiesmith456",
+    "company": "InnovateNow",
+    "title": "Marketing Director",
+    "industry": "Digital Marketing",
+    "interest": "Growth Marketing",
+    "connection_degree": 2,
+    "mutual_connections": 5
+  },
+  {
+    "first_name": "Taylor",
+    "last_name": "Wilson",
+    "name": "Taylor Wilson",
+    "profile_url": "https://www.linkedin.com/in/taylorwilson789",
+    "company": "DataSphere Analytics",
+    "title": "Data Scientist",
+    "industry": "Data Science",
+    "interest": "Machine Learning",
+    "connection_degree": 3,
+    "mutual_connections": 1
+  },
+  {
+    "first_name": "Jordan",
+    "last_name": "Rivera",
+    "name": "Jordan Rivera",
+    "profile_url": "https://www.linkedin.com/in/jordanrivera234",
+    "company": "CloudScale Inc.",
+    "title": "DevOps Engineer",
+    "industry": "Cloud Infrastructure",
+    "interest": "Kubernetes",
+    "connection_degree": 2,
+    "mutual_connections": 2
+  },
+  {
+    "first_name": "Casey",
+    "last_name": "Morgan",
+    "name": "Casey Morgan",
+    "profile_url": "https://www.linkedin.com/in/caseymorgan567",
+    "company": "Venture Partners",
+    "title": "Investment Analyst",
+    "industry": "Venture Capital",
+    "interest": "Startup Investing",
+    "connection_degree": 3,
+    "mutual_connections": 0
+  }
+] 
